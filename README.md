@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## 📫 Contact
 **GitHub:** https://github.com/cgamingpro  
-hariomjangra777@gmail.com 
+hariomjangra777@gmail.com .
 https://cgverse.wordpress.com/
 
 ---
