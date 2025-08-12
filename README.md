@@ -1,6 +1,70 @@
-sup chiggaa
+# CG
 
-<!---
-cgamingpro/cgamingpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+**Unity · AR/VR · Machine Learning**  
+[![GitHub followers](https://img.shields.io/github/followers/cgamingpro?label=follow&style=social)](https://github.com/cgamingpro)
+
+</div>
+
+---
+
+A practical builder of interactive 3D systems and compact ML demos. I ship playable prototypes, optimize for mobile performance, and prefer simple, explorable demos over abstract research.
+
+---
+
+## ⭐ Featured projects
+
+### 🔹 [VR_Gallery](https://github.com/cgamingpro/VR_Gallery)  
+**Tech:** Unity · C# · Blender · ShaderLab/HLSL  
+Mobile-first VR gallery for Google Cardboard. Blender-modeled assets and custom shaders, optimized to run smoothly on mid-range Android devices.
+
+### 🔹 [DoomDt — Doom-style FPS Template](https://github.com/cgamingpro/DoomDt)  
+**Tech:** Unity · C# · Blender  
+Reusable FPS template focused on rapid prototyping: modular weapon & movement systems, enemy spawning, and quick-iteration workflows.
+
+### 🔹 Procedural Map Generator (repo in profile)  
+**Tech:** Unity · C# · Blender  
+Noise-driven procedural maps for roguelike / sandbox-style levels (suitable for Minecraft-like worlds). Generates unique, replayable maps and reduces manual design time.
+
+---
+
+## 🧰 Tech & Tools
+
+**Languages:** C · C++ · Java · Python · C# · SQL  
+**Game / 3D:** Unity (expert) · Blender · TouchDesigner  
+**ML & Data:** NumPy · Pandas · Matplotlib · OpenCV · scikit-learn  
+**Tools:** Git · Linux · Docker · VMware · MySQL · VS Code · Adobe CC
+
+---
+
+## ⚙️ Quick demos & how to run
+
+> Unity projects  
+- Open the project folder in **Unity Hub** → use Unity 2020–2022 (whichever matches the project).  
+- Open the sample scene and press Play. Mobile builds: switch platform to Android, build APK and test on device (use Google Cardboard for VR Gallery).
+
+> ML notebooks  
+- `pip install -r requirements.txt`  
+- `jupyter notebook` or deploy with Streamlit / Gradio for an interactive demo:  
+```bash
+pip install streamlit
+streamlit run app.py
+```
+
+---
+
+## 📂 What I care about
+- Movement & feel — how a player *moves* is more important than menus.  
+- Performance on constrained devices (mobile VR).  
+- Making ML usable: small demo UIs and clear explanations.
+
+---
+
+## 📫 Contact
+**GitHub:** https://github.com/cgamingpro  
+Email / LinkedIn / Portfolio: kept private here — add to profile if you want them public.
+
+---
+
+*If you want, I can: add a GIF demo, badges, or small "clone & run" snippets per repo. Tell me which repo to prioritize.*
