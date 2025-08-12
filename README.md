@@ -23,7 +23,7 @@ Mobile-first VR gallery for Google Cardboard. Blender-modeled assets and custom 
 **Tech:** Unity · C# · Blender  
 Reusable FPS template focused on rapid prototyping: modular weapon & movement systems, enemy spawning, and quick-iteration workflows.
 
-### 🔹 Procedural Map Generator (repo in profile)  
+### 🔹 Procedural Map Generator (https://github.com/cgamingpro/ProceduralDungeonGenrator)  
 **Tech:** Unity · C# · Blender  
 Noise-driven procedural maps for roguelike / sandbox-style levels (suitable for Minecraft-like worlds). Generates unique, replayable maps and reduces manual design time.
 
@@ -54,17 +54,9 @@ streamlit run app.py
 
 ---
 
-## 📂 What I care about
-- Movement & feel — how a player *moves* is more important than menus.  
-- Performance on constrained devices (mobile VR).  
-- Making ML usable: small demo UIs and clear explanations.
-
----
-
 ## 📫 Contact
 **GitHub:** https://github.com/cgamingpro  
-Email / LinkedIn / Portfolio: kept private here — add to profile if you want them public.
+hariomjangra777@gmail.com 
 
 ---
 
-*If you want, I can: add a GIF demo, badges, or small "clone & run" snippets per repo. Tell me which repo to prioritize.*
