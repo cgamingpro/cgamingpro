@@ -27,6 +27,10 @@ Reusable FPS template focused on rapid prototyping: modular weapon & movement sy
 **Tech:** Unity · C# · Blender  
 Noise-driven procedural maps for roguelike / sandbox-style levels (suitable for Minecraft-like worlds). Generates unique, replayable maps and reduces manual design time.
 
+### 🔹 [HandyTowers](https://github.com/cgamingpro/HandyTowers)  
+**Tech:** Unity · C#  
+Interactive project focused on gameplay experimentation and hands-on prototype development.
+
 ---
 
 ## 🧰 Tech & Tools
@@ -50,14 +54,3 @@ Noise-driven procedural maps for roguelike / sandbox-style levels (suitable for 
 ```bash
 pip install streamlit
 streamlit run app.py
-```
-
----
-
-## 📫 Contact
-**GitHub:** https://github.com/cgamingpro  
-hariomjangra777@gmail.com .
-https://cgverse.wordpress.com/
-
----
-
