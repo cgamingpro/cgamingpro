@@ -27,6 +27,10 @@ Reusable FPS template focused on rapid prototyping: modular weapon & movement sy
 **Tech:** Unity · C# · Blender  
 Noise-driven procedural maps for roguelike / sandbox-style levels (suitable for Minecraft-like worlds). Generates unique, replayable maps and reduces manual design time.
 
+### 🔹 [Ascii_Gator](https://github.com/cgamingpro/Ascii_Gator)  
+**Tech:** Python · OpenCV · NumPy  
+Utility that converts images into ASCII art by mapping pixel brightness values to character sets. Designed as a lightweight experiment in image processing and terminal-based visualization.
+
 ### 🔹 [HandyTowers](https://github.com/cgamingpro/HandyTowers)  
 **Tech:** Unity · C#  
 Interactive project focused on gameplay experimentation and hands-on prototype development.
